@@ -14,6 +14,15 @@ Because it does not use the Liveblocks Storage, the conflict resolution is subop
 https://user-images.githubusercontent.com/7273466/126260124-56ce0245-ad5f-46d9-901b-06a22f58fef3.mov
 
 
+## Run demo locally
+
+- Install all dependencies with `npm install`
+- Create an account on [liveblocks.io](https://liveblocks.io/dashboard)
+- Copy your secret key from the [administration](https://liveblocks.io/dashboard/apikeys)
+- Create a file named `.env` and add your Liveblocks secret as environment variable `LIVEBLOCKS_SECRET_KEY=sk_test_yourkey`
+- Run `npm run dev` and go to [http://localhost:3000](http://localhost:3000)
+
+
 ## How it's working
 
 This demo uses the following packages:
