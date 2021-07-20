@@ -11,8 +11,7 @@ This repository contains a tiny demo to show how the Liveblocks Presence Block c
 
 Because it does not use the Liveblocks Storage, the conflict resolution is suboptimal but it's a low cost solution to add collaborative features on top on an existing app that uses REST calls.
 
-https://user-images.githubusercontent.com/7273466/126260124-56ce0245-ad5f-46d9-901b-06a22f58fef3.mov
-
+https://user-images.githubusercontent.com/7273466/126263843-d679dbd3-8a29-4260-b62c-8abceb207463.mov
 
 ## Run demo locally
 
